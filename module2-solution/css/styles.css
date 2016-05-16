@@ -19,14 +19,14 @@ h1 {
 }
 
 .section {
-    margin: 10px;
+    margin:             10px;
     background-color:   grey;
-    border: 1px solid black;
+    border:             1px solid black;
 }
 
 p {
-    padding: 5px 15px 0px 15px;
-    clear: right;
+    padding:    5px 15px 0px 15px;
+    clear:      right;
 }
 
 .title-region {
@@ -34,11 +34,11 @@ p {
     float:      right;
     border:     1px solid black;
     margin:     0;
-    padding: 3px 20px 3px 20px;
+    padding:    3px 20px 3px 20px;
     text-align: center;
-    clear: left;
-    top: -1px;
-    right: -1px;
+    clear:      left;
+    top:        -1px;
+    right:      -1px;
 }
 
 #chicken {
